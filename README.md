@@ -1,6 +1,6 @@
 # EDA_&_FE
 
 ##  <a href="https://github.com/RishavMishraRM/EDA_and_FE/blob/main/EDA.ipynb">1. EDA File</a>
-## 2. Pandas Profiling
+## <a href="https://github.com/RishavMishraRM/EDA_and_FE/blob/main/Pandas_Profiling.ipynb">2. Pandas Profiling</a>
 ## 3. Feature_Engineering_1
 ## 4. Feature_Engineering_2
